@@ -39,16 +39,6 @@
                   @updateAuthor="updateAuthor"
                   @updateDescription="updateDescription"
               />
-              <!--              <v-col class="d-flex mx-0 px-0" cols="12" sm="6">-->
-              <!--                <v-select-->
-              <!--                    v-model="trealetType"-->
-              <!--                    :items="trealetTypes"-->
-              <!--                    item-text="type"-->
-              <!--                    item-value="index"-->
-              <!--                    label="Trealet type"-->
-              <!--                    outlined-->
-              <!--                ></v-select>-->
-              <!--              </v-col>-->
 
               <QuestionList
                   :questionListProp="questions"
@@ -185,10 +175,11 @@ export default {
     },
 
     getUsableQuestionList() {
+      // console.log(this.questions);
       return this.questions.map((obj) => ({
-        question: +obj.question,
+        question: obj.question,
         image: +obj.image,
-        options: +obj.options,
+        options: obj.options,
         answer: +obj.answer,
       }));
     },
