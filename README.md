@@ -1,6 +1,7 @@
 # Hướng dẫn sử dụng công cụ tạo Trealet
 
 Project sử dụng framework Vuejs, yêu cầu cần có Nodejs để chạy code Javascript và NPM để quản lý và cài đặt các thư viện của Nodejs, bao gồm cả framework Vuejs.
+Link tới file json quiz mẫu tạo ra từ tool: https://github.com/hakuno2000/create_quiz/blob/master/quiz.trealet
 
 # Hướng dẫn cài đặt
 
