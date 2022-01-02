@@ -1,0 +1,82 @@
+{
+	"trealet":{
+		"exec":"streamline",
+		"title":"Tìm hiểu nghệ thuật thời kỳ phục hưng",
+		"author":"harukiiiii",
+		"desc":"Thời kì Phục Hưng thường được người ta miêu tả ở khoảng thế kỉ thứ 16 nhưng ngay từ thế kỉ thứ 14, những mầm mống đầu tiên của phong trào này đã bắt đầu nhem nhóm từ Ý(Quatrocento – 1400). Trong thời kì này, sự trỗi dậy của tầng lớp giàu có – tiền thân của giai cấp tư sản sau này đã tạo ra một làn sóng xây dựng một nền văn hóa mới để chống lại giai cấp phong kiến lạc hậu. Phục Hưng có gốc từ tiếng Pháp (Renaissance – nghĩa là sự tái sinh), điều này ám chỉ tinh thần của nó là thời kỳ làm sống lại những tinh hoa văn hóa của Hy Lạp và La Mã cổ.",
+		"questions": [
+            {
+                "question": "Tác giả của bức họa Mona Lisa là ai?",
+                "options": [
+                    {
+                        "text": "Leonardo da Vinci"
+                    },
+                    {
+                        "text": "Ricardo Milos"
+                    },
+                    {
+                        "text": "Rick Astley"
+                    },
+                    {
+                        "text": "Michelangelo Buonarroti"
+                    }
+                ],
+                "answer": 1
+            },
+            {
+                "question": "Thời kỳ phục hưng ở Ý kéo dài trong khoảng thời gian nào?",
+                "options": [
+                    {
+                        "text": "1600 - 1700"
+                    },
+                    {
+                        "text": "1520 - 1700"
+                    },
+                    {
+                        "text": "1500 - 1600"
+                    },
+                    {
+                        "text": "1420 - 1600"
+                    }
+                ],
+                "answer": 3
+            },
+            {
+                "question": "Thời kỳ phục hưng có mấy giai đoạn?",
+                "options": [
+                    {
+                        "text": "3"
+                    },
+                    {
+                        "text": "1"
+                    },
+                    {
+                        "text": "2"
+                    },
+                    {
+                        "text": "4"
+                    }
+                ],
+                "answer": 0
+            },
+            {
+                "question": "Tác phẩm nào sau đây là của Michelangelo?",
+                "options": [
+                    {
+                        "text": "Tượng David"
+                    },
+                    {
+                        "text": "Lễ Mân Côi"
+                    },
+                    {
+                        "text": "Bữa ăn tối cuối cùng"
+                    },
+                    {
+                        "text": "Mác-cô và Phao-lô"
+                    }
+                ],
+                "answer": 0
+            }
+        ]
+	}
+}
